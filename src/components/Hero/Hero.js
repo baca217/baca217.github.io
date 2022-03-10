@@ -12,7 +12,7 @@ const Hero = () => (
         Welcome To My Personal Portfolio
       </SectionTitle>
       <SectionText>
-        My skills focus on front-end and application development
+        My skills focus on front-end development and application development
       </SectionText>
       {/*TODO: Make this your email link or just more about your projects up to you*/}
       <Button onClick={() => window.location = '/unimplemented'}>E-mail Me</Button>
